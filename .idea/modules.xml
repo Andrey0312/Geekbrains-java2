@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Geekbrains-java2.iml" filepath="$PROJECT_DIR$/.idea/Geekbrains-java2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chat/chat.iml" filepath="$PROJECT_DIR$/chat/chat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chat/chat-client/chat-client.iml" filepath="$PROJECT_DIR$/chat/chat-client/chat-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chat/chat-server/chat-server.iml" filepath="$PROJECT_DIR$/chat/chat-server/chat-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson1/lesson1.iml" filepath="$PROJECT_DIR$/lesson1/lesson1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson2/lesson2.iml" filepath="$PROJECT_DIR$/lesson2/lesson2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson3/lesson3.iml" filepath="$PROJECT_DIR$/lesson3/lesson3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson4/lesson4.iml" filepath="$PROJECT_DIR$/lesson4/lesson4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chat/network/network.iml" filepath="$PROJECT_DIR$/chat/network/network.iml" />
+    </modules>
+  </component>
+</project>
